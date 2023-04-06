@@ -40,7 +40,11 @@ Current list of scripts:
 
 
 ## **003_Graphics**
-This category contains scripts that create graphic contents to further produce images and animations in Adobe Illustrator, Photoshop, Premiere Pro, etc,. 
+<p align="left">
+<img alt="output frames" src="assets/2023-CNY-Overall.png" width="625px" />
+</p>
+
+This category contains scripts that create graphic materials to further produce images and animations in Adobe Illustrator, Photoshop, Premiere Pro, etc,. 
 
 Current list of scripts (in chronological order of creation):
 * 2022 Christmas greetings
